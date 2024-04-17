@@ -9,15 +9,15 @@ Neste repositório será apresentado o relatório de vendas feito com Power BI. 
 ## Passo a Passo
 **Criar elementos da Primeira página do relatório**
 
-Nesta estapa foi necessário estabelcer a estrutura inicial do relatório, criando caixas/figuras onde seriam posicionados os gráficos, títulos e cor do próprio relatório. É necessário definir o que será apresentado inicialmente.
+Nesta etapa foi necessário estabelecer uma estrutura inicial do relatório, criando caixas/figuras onde seriam posicionados os gráficos, títulos e cor do próprio relatório. É necessário definir o que será apresentado.
 
 **Criar gráficos da Primeira Página do Relatório**
 
 Foram apresentados gráficos que representam as vendas em relação ao segmento, produto e a relação de tudo isso com os países, além disso, foram criados mais de 1 tipo de gráfico para cada relação a fim de facilitar a compreensão dos dados analisados.
 
-**Criar o segmentador e visiais alternativos**
+**Criando segmentadores e visiais alternativos**
 
-Nesta etapa foram criados os ``indicadores`` a fim de definir que tipo de gráfico poderiamos utilizar para uma analise mais detalhada, por exemplo: Podemos utilizar a relação Sales x Segmento através de um gráfico de barras ou gráfico de  torta.
+Nesta etapa foram criados os ``indicadores`` a fim de definir que tipo de gráfico poderíamos utilizar para uma análise mais detalhada, por exemplo: Utilizar a relação Sales x Segmento através de um gráfico de barras ou gráfico de  torta.
 
 ![Relatório Elegante de Vendas pt1](1/Relatório%20Elegante%20de%20Vendas%20pt1.png)
 
