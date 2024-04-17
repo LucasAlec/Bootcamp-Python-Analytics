@@ -6,6 +6,7 @@ Neste repositório será apresentado o relatório de vendas feito com Power BI. 
 - Power BI Desktop
 - Excel
 
+
 ## Passo a Passo
 **Criar elementos da Primeira página do relatório**
 
@@ -15,7 +16,7 @@ Nesta etapa foi necessário estabelecer uma estrutura inicial do relatório, cri
 
 Foram apresentados gráficos que representam as vendas em relação ao segmento, produto e a relação de tudo isso com os países, além disso, foram criados mais de 1 tipo de gráfico para cada relação a fim de facilitar a compreensão dos dados analisados.
 
-**Criando segmentadores e visiais alternativos**
+**Criando o segmentador e visuais alternativos**
 
 Nesta etapa foram criados os ``indicadores`` a fim de definir que tipo de gráfico poderíamos utilizar para uma análise mais detalhada, por exemplo: Utilizar a relação Sales x Segmento através de um gráfico de barras ou gráfico de  torta.
 
