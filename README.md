@@ -35,14 +35,14 @@ Foram apresentados gráficos que representam as vendas em relação ao segmento,
 
 Nesta etapa foram criados os ``indicadores`` a fim de definir que tipo de gráfico poderíamos utilizar para uma análise mais detalhada, por exemplo: Utilizar a relação Sales x Segmento através de um gráfico de barras ou gráfico de  torta.
 
-![Relatório Elegante de Vendas pt1](1/Relatório%20Elegante%20de%20Vendas%20pt1.png)
+![Relatório Elegante de Vendas pt1](power_bi_analyst-main/1/Relatório%20Elegante%20de%20Vendas%20pt1.png)
 
 **Criar botões dos relatórios utilizando indicadores para gravar estado do relatório**
 
 O botões nos permite tornar o relatório mais dinâmico, neste relatório foi criado o botão ``eraser`` que restauram as alterações feitas no relatório. E botões como ``Bar chart`` e ``Tremap`` que definem o tipo de gráfico a ser utilizado na nossa análise. Além disso, foi adicionado botões que permitem a navegação entre as duas páginas do relatório.
 
 
-![Relatório Elegante de Vendas pt2](1/REV%20pt2.png)
+![Relatório Elegante de Vendas pt2](power_bi_analyst-main/1/REV%20pt2.png)
 
 
 
@@ -50,7 +50,7 @@ O botões nos permite tornar o relatório mais dinâmico, neste relatório foi c
 
 Este projeto tem o objetivo de configurar um setup de banco de dados na Azure, popular o servidor com script fornecido, integrar o MySQL com Power BI e elaborar um relatório no Power BI a partir do banco de dados fornecido.
 
-![Processando e transformando dados com PowerBI](2/PTDP%20.png)
+![Processando e transformando dados com PowerBI](power_bi_analyst-main/2/PTDP.png)
 
 ## Passo a Passo
 
